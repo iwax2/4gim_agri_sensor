@@ -28,3 +28,5 @@ APN: https://www.iijmio.jp/service/manual/hdd/
     Check Def Route =1
 
 
++ https://www.mrl.co.jp/product/gm3/gm_series_sim.html
+* https://forum.sierrawireless.com/t/atd-with-no-carrier/14601/9
